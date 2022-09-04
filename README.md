@@ -10,4 +10,7 @@
 ```
 npm install
 ```
+```
+npm start
+```
 
