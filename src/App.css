@@ -1,0 +1,31 @@
+.App{
+    display: flex;
+}
+
+.graph-wrapper{
+    display: flex;
+    flex: wrap;
+    width: 100vw;
+    flex-direction: column;
+}
+
+.graph-1, .graph-2{
+    padding: 5rem 0;
+}
+
+.graph-1{
+    background: #f8f7ee;
+    width: 100%;
+}
+
+.graph-2{
+    background: #f7eef8;
+    width: 100%;
+}
+
+.graph-1 h2,
+.graph-2 h2{
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2rem;
+}
